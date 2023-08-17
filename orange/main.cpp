@@ -1,8 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
-
 class Student{
 private:
      int level;
@@ -123,6 +120,5 @@ for(int i=0;i<=students.size;i++){
 
 int main()
 {
-    cout << "Hello world!" << endl;
     return 0;
 }
